@@ -1,0 +1,5 @@
+export const FETCH_USERS = "FETCH_USERS";
+//for saga
+export const FETCH_USERS_ASYNC = "FETCH_USERS_ASYNC";
+export const FETCH_USERS_SUCCEED = "FETCH_USERS_SUCCEED";
+export const FETCH_USERS_FAILED = "FETCH_USERS_FAILED";

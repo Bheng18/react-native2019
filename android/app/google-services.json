@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091245719179",
+    "firebase_url": "https://react-native-redux-saga2020.firebaseio.com",
+    "project_id": "react-native-redux-saga2020",
+    "storage_bucket": "react-native-redux-saga2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091245719179:android:862090d17a9dc392da9e8e",
+        "android_client_info": {
+          "package_name": "com.appko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091245719179-v691amjm6sfou461sbn5fg86vicbjofq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvePu3vwtznNtPnmjIan2xNrhN8dtXRTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091245719179-v691amjm6sfou461sbn5fg86vicbjofq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
